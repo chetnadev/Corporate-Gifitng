@@ -22,15 +22,15 @@
    if (isLoading || newValue == '') {
       return;
    }
-alert('SAR1');
+//alert('SAR1');
    if (isLoading || newValue == '') {
-   alert('SAR2');
+   //alert('SAR2');
         g_form.clearOptions('e_voucher_brand', '');
 		g_form.clearOptions('e_voucher_amount',''); //formaount
         return;
     }
     if (newValue == 'E-Commerce') {
-        alert('SAR3');
+       // alert('SAR3');
         g_form.removeOption('e_voucher_brand', 'Lifestyle');
         g_form.removeOption('e_voucher_brand', 'Allen Solly');
         g_form.removeOption('e_voucher_brand', 'Zomato');
@@ -41,16 +41,16 @@ alert('SAR1');
         g_form.addOption('e_voucher_brand', 'Flipkart', 'Flipkart');
         g_form.addOption('e_voucher_brand', 'Amazon', 'Amazon');
         g_form.addOption('e_voucher_brand', 'Myntra', 'Myntra'); //foramount
-		g_form.removeOption('e_voucher_amount', 'Rs.100');
-        g_form.removeOption('e_voucher_amount', 'Rs.400');
-        g_form.removeOption('e_voucher_amount', 'Rs.750');
-        g_form.addOption('e_voucher_amount', 'Rs.200', 'Rs.200');
-        g_form.addOption('e_voucher_amount', 'Rs.250', 'Rs.250');
-        g_form.addOption('e_voucher_amount', 'Rs.500', 'Rs.500');
-		g_form.addOption('e_voucher_amount', 'Rs.1000', 'Rs.1000');
+		g_form.removeOption('e_voucher_amount', '100');
+        g_form.removeOption('e_voucher_amount', '400');
+        g_form.removeOption('e_voucher_amount', '750');
+        g_form.addOption('e_voucher_amount', '200', 'Rs.200');
+        g_form.addOption('e_voucher_amount', '250', 'Rs.250');
+        g_form.addOption('e_voucher_amount', '500', 'Rs.500');
+		g_form.addOption('e_voucher_amount', '1000', 'Rs.1000');
     }
     else if (newValue == 'Shopping') {
-        alert('SAR4');
+        //alert('SAR4');
         g_form.removeOption('e_voucher_brand', 'Flipkart');
         g_form.removeOption('e_voucher_brand', 'Amazon');
         g_form.removeOption('e_voucher_brand', 'Myntra');
@@ -61,16 +61,16 @@ alert('SAR1');
         g_form.removeOption('e_voucher_brand', 'Nike');
         g_form.addOption('e_voucher_brand', 'Lifestyle', 'Lifestyle');
         g_form.addOption('e_voucher_brand', 'Allen Solly', 'Allen Solly'); //amount
-		g_form.removeOption('e_voucher_amount', 'Rs.100');
-        g_form.removeOption('e_voucher_amount', 'Rs.200');
-        g_form.removeOption('e_voucher_amount', 'Rs.250');
-        g_form.addOption('e_voucher_amount', 'Rs.400', 'Rs.400');
-        g_form.addOption('e_voucher_amount', 'Rs.500', 'Rs.500');
-        g_form.addOption('e_voucher_amount', 'Rs.750', 'Rs.750');
-		g_form.addOption('e_voucher_amount', 'Rs.1000', 'Rs.1000');
+		g_form.removeOption('e_voucher_amount', '100');
+        g_form.removeOption('e_voucher_amount', '200');
+        g_form.removeOption('e_voucher_amount', '250');
+        g_form.addOption('e_voucher_amount', '400', 'Rs.400');
+        g_form.addOption('e_voucher_amount', '500', 'Rs.500');
+        g_form.addOption('e_voucher_amount', '750', 'Rs.750');
+		g_form.addOption('e_voucher_amount', '1000', 'Rs.1000');
     }
     else if (newValue == 'Sports Wear') {
-        alert('SAR5');
+        //alert('SAR5');
         g_form.removeOption('e_voucher_brand', 'Lifestyle');
         g_form.removeOption('e_voucher_brand', 'Allen Solly');
         g_form.removeOption('e_voucher_brand', 'Zomato');
@@ -81,16 +81,16 @@ alert('SAR1');
         g_form.addOption('e_voucher_brand', 'Puma', 'Puma');
         g_form.addOption('e_voucher_brand', 'Adidas', 'Adidas');
         g_form.addOption('e_voucher_brand', 'Nike', 'Nike'); //amount
-		g_form.removeOption('e_voucher_amount', 'Rs.100');
-        g_form.removeOption('e_voucher_amount', 'Rs.200');
-        g_form.removeOption('e_voucher_amount', 'Rs.400');
-        g_form.addOption('e_voucher_amount', 'Rs.250', 'Rs.250');
-        g_form.addOption('e_voucher_amount', 'Rs.500', 'Rs.500');
-        g_form.addOption('e_voucher_amount', 'Rs.750', 'Rs.750');
-		g_form.addOption('e_voucher_amount', 'Rs.1000', 'Rs.1000');
+		g_form.removeOption('e_voucher_amount', '100');
+        g_form.removeOption('e_voucher_amount', '200');
+        g_form.removeOption('e_voucher_amount', '400');
+        g_form.addOption('e_voucher_amount', '250', 'Rs.250');
+        g_form.addOption('e_voucher_amount', '500', 'Rs.500');
+        g_form.addOption('e_voucher_amount', '750', 'Rs.750');
+		g_form.addOption('e_voucher_amount', '1000', 'Rs.1000');
     }
     else if (newValue == 'Food Delivery') {
-        alert('SAR6');
+        //alert('SAR6');
         g_form.removeOption('e_voucher_brand', 'Flipkart');
         g_form.removeOption('e_voucher_brand', 'Amazon');
         g_form.removeOption('e_voucher_brand', 'Myntra');
@@ -101,13 +101,13 @@ alert('SAR1');
         g_form.removeOption('e_voucher_brand', 'Nike');
         g_form.addOption('e_voucher_brand', 'Zomato', 'Zomato');
         g_form.addOption('e_voucher_brand', 'Swiggy', 'Swiggy'); //amount
-		g_form.removeOption('e_voucher_amount', 'Rs.250');
-        g_form.removeOption('e_voucher_amount', 'Rs.500');
-        g_form.removeOption('e_voucher_amount', 'Rs.750');
-        g_form.addOption('e_voucher_amount', 'Rs.400', 'Rs.400');
-        g_form.addOption('e_voucher_amount', 'Rs.100', 'Rs.100');
-        g_form.addOption('e_voucher_amount', 'Rs.200', 'Rs.200');
-		g_form.addOption('e_voucher_amount', 'Rs.1000', 'Rs.1000');
+		g_form.removeOption('e_voucher_amount', '250');
+        g_form.removeOption('e_voucher_amount', '500');
+        g_form.removeOption('e_voucher_amount', '750');
+        g_form.addOption('e_voucher_amount', '400', 'Rs.400');
+        g_form.addOption('e_voucher_amount', '100', 'Rs.100');
+        g_form.addOption('e_voucher_amount', '200', 'Rs.200');
+		g_form.addOption('e_voucher_amount', '1000', 'Rs.1000');
     }
 }]]></script>
         <sys_class_name>catalog_script_client</sys_class_name>
@@ -116,7 +116,7 @@ alert('SAR1');
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c0e8b70897bb71103f02fa67f053af60</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>displayBroucherBrand</sys_name>
         <sys_overrides/>
         <sys_package display_value="Corporate Gifting" source="x_978579_corpora_0">83a26fb4972331103f02fa67f053afc5</sys_package>
@@ -124,7 +124,7 @@ alert('SAR1');
         <sys_scope display_value="Corporate Gifting">83a26fb4972331103f02fa67f053afc5</sys_scope>
         <sys_update_name>catalog_script_client_c0e8b70897bb71103f02fa67f053af60</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-13 15:09:26</sys_updated_on>
+        <sys_updated_on>2024-01-13 18:45:13</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>10</ui_type>

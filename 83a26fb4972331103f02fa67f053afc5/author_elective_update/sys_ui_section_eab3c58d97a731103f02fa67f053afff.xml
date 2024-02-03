@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="eab3c58d97a731103f02fa67f053afff" sys_domain="global" table="x_978579_corpora_0_e_wallet_request_by_managers" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 14:09:35</sys_created_on>
+            <sys_id>85de11f69773f1103f02fa67f053afc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 14:09:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_by_manager</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 14:09:35</sys_created_on>
+            <sys_id>4dde11f69773f1103f02fa67f053afc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 14:09:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for_employee</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 14:09:35</sys_created_on>
+            <sys_id>cdde11f69773f1103f02fa67f053afc4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 14:09:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>watch_list</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 14:09:35</sys_created_on>
+            <sys_id>41de11f69773f1103f02fa67f053afc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 14:09:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 14:09:35</sys_created_on>
+            <sys_id>c1de11f69773f1103f02fa67f053afc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 14:09:35</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_status</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 14:09:35</sys_created_on>
+            <sys_id>45de11f69773f1103f02fa67f053afc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 14:09:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rejection_reason</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 14:09:35</sys_created_on>
+            <sys_id>c5de11f69773f1103f02fa67f053afc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 14:09:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 14:09:35</sys_created_on>
+            <sys_id>49de11f69773f1103f02fa67f053afc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 14:09:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 14:09:35</sys_created_on>
+            <sys_id>c9de11f69773f1103f02fa67f053afc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 14:09:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 14:09:35</sys_created_on>
+            <sys_id>4dde11f69773f1103f02fa67f053afc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 14:09:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-21 14:09:35</sys_created_on>
+            <sys_id>cdde11f69773f1103f02fa67f053afc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-21 14:09:35</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_978579_corpora_0_e_wallet_request_by_managers</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-03 15:26:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eab3c58d97a731103f02fa67f053afff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_978579_corpora_0_e_wallet_request_by_managers</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Corporate Gifting" source="x_978579_corpora_0">83a26fb4972331103f02fa67f053afc5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corporate Gifting">83a26fb4972331103f02fa67f053afc5</sys_scope>
+            <sys_update_name>sys_ui_section_eab3c58d97a731103f02fa67f053afff</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-03 15:26:07</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">83a26fb4972331103f02fa67f053afc5</application>
+        <file_path/>
+        <instance_id>f967f6d2dbd6d1900ae3ac44d496190e</instance_id>
+        <instance_name>dev139119</instance_name>
+        <name>sys_ui_section_eab3c58d97a731103f02fa67f053afff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="eab3c58d97a731103f02fa67f053afff" sys_domain="global" table="x_978579_corpora_0_e_wallet_request_by_managers" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-21 14:09:35</sys_created_on><sys_id>85de11f69773f1103f02fa67f053afc4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-21 14:09:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>requested_by_manager</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-21 14:09:35</sys_created_on><sys_id>4dde11f69773f1103f02fa67f053afc4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-21 14:09:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>requested_for_employee</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-21 14:09:35</sys_created_on><sys_id>cdde11f69773f1103f02fa67f053afc4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-21 14:09:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>watch_list</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-21 14:09:35</sys_created_on><sys_id>41de11f69773f1103f02fa67f053afc5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-21 14:09:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-21 14:09:35</sys_created_on><sys_id>c1de11f69773f1103f02fa67f053afc5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-21 14:09:35</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>request_status</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-21 14:09:35</sys_created_on><sys_id>45de11f69773f1103f02fa67f053afc5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-21 14:09:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>rejection_reason</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-21 14:09:35</sys_created_on><sys_id>c5de11f69773f1103f02fa67f053afc5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-21 14:09:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>opened_at</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-21 14:09:35</sys_created_on><sys_id>49de11f69773f1103f02fa67f053afc5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-21 14:09:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assignment_group</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-21 14:09:35</sys_created_on><sys_id>c9de11f69773f1103f02fa67f053afc5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-21 14:09:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-21 14:09:35</sys_created_on><sys_id>4dde11f69773f1103f02fa67f053afc5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-21 14:09:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-21 14:09:35</sys_created_on><sys_id>cdde11f69773f1103f02fa67f053afc5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_978579_corpora_0_e_wallet_request_by_managers" sys_domain="global" view="Default view">eab3c58d97a731103f02fa67f053afff</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-21 14:09:35</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_978579_corpora_0_e_wallet_request_by_managers</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 15:26:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>eab3c58d97a731103f02fa67f053afff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_978579_corpora_0_e_wallet_request_by_managers</sys_name><sys_overrides/><sys_package display_value="Corporate Gifting" source="x_978579_corpora_0">83a26fb4972331103f02fa67f053afc5</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">83a26fb4972331103f02fa67f053afc5</sys_scope><sys_update_name>sys_ui_section_eab3c58d97a731103f02fa67f053afff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 15:26:07</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-655633776</payload_hash>
+        <record_name>E-Wallet Request by Managers</record_name>
+        <reverted_from/>
+        <source>07a26fb4972331103f02fa67f053afc9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-21 14:09:35</sys_created_on>
+        <sys_id>49de11f69773f1103f02fa67f053afc8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d2c5af5990000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-21 14:09:35</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>8dde11f6b373f11059394dba3bb476c7</update_guid>
+        <update_guid_history>8dde11f6b373f11059394dba3bb476c7:-655633776,1443210dd96b31102d0273e9e1405ca3:1252385866,9c43a1c53a6b31106e56210591142663:-1637166330</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-22 10:47:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>73be591248ae46a08c9dd2e168bc8400</sys_id>
+        <sys_metadata>eab3c58d97a731103f02fa67f053afff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_978579_corpora_0_e_wallet_request_by_managers</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_978579_corpora_0">83a26fb4972331103f02fa67f053afc5</sys_package>
+        <sys_parent display_value="E-Wallet Request by Managers">69b309c597e731103f02fa67f053af78</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">83a26fb4972331103f02fa67f053afc5</sys_scope>
+        <sys_scope_delete display_value="">1216fd06aecc4c4185c1c32e0292c1f9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_eab3c58d97a731103f02fa67f053afff</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_eab3c58d97a731103f02fa67f053afff">49de11f69773f1103f02fa67f053afc8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-22 10:47:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 10:03:16</sys_created_on>
+        <sys_id>1dd93ff097a331103f02fa67f053af69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_978579_corpora_0_e_wallet_request_by_managers.x_978579_corpora_0.admin</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_978579_corpora_0">83a26fb4972331103f02fa67f053afc5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">83a26fb4972331103f02fa67f053afc5</sys_scope>
+        <sys_security_acl display_value="x_978579_corpora_0_e_wallet_request_by_managers">05d93ff097a331103f02fa67f053af67</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1dd93ff097a331103f02fa67f053af69</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 10:03:16</sys_updated_on>
+        <sys_user_role display_value="x_978579_corpora_0.admin" name="x_978579_corpora_0.admin">4ba26fb4972331103f02fa67f053afff</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">83a26fb4972331103f02fa67f053afc5</application>
+        <file_path/>
+        <instance_id>f967f6d2dbd6d1900ae3ac44d496190e</instance_id>
+        <instance_name>dev139119</instance_name>
+        <name>sys_security_acl_role_1dd93ff097a331103f02fa67f053af69</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-03 10:03:16</sys_created_on><sys_id>1dd93ff097a331103f02fa67f053af69</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_978579_corpora_0_e_wallet_request_by_managers.x_978579_corpora_0.admin</sys_name><sys_package display_value="Corporate Gifting" source="x_978579_corpora_0">83a26fb4972331103f02fa67f053afc5</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">83a26fb4972331103f02fa67f053afc5</sys_scope><sys_security_acl display_value="x_978579_corpora_0_e_wallet_request_by_managers">05d93ff097a331103f02fa67f053af67</sys_security_acl><sys_update_name>sys_security_acl_role_1dd93ff097a331103f02fa67f053af69</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-03 10:03:16</sys_updated_on><sys_user_role display_value="x_978579_corpora_0.admin" name="x_978579_corpora_0.admin">4ba26fb4972331103f02fa67f053afff</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1064884052</payload_hash>
+        <record_name>x_978579_corpora_0_e_wallet_request_by_managers.x_978579_corpora_0.admin</record_name>
+        <reverted_from/>
+        <source>07a26fb4972331103f02fa67f053afc9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 10:03:16</sys_created_on>
+        <sys_id>ddd93ff097a331103f02fa67f053af84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ccec6fc030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 10:03:16</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>15d93ff01aa3311019d4cb3851574c84</update_guid>
+        <update_guid_history>15d93ff01aa3311019d4cb3851574c84:1064884052</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_978579_corpora_0_e_wallet_request_by_managers.x_978579_corpora_0.admin">94e2098597e731103f02fa67f053afc4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 15:22:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>187b069f5d8249a0a27416896c7e4964</sys_id>
+        <sys_metadata>1dd93ff097a331103f02fa67f053af69</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_978579_corpora_0_e_wallet_request_by_managers.x_978579_corpora_0.admin</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_978579_corpora_0">83a26fb4972331103f02fa67f053afc5</sys_package>
+        <sys_parent display_value="">05d93ff097a331103f02fa67f053af67</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">83a26fb4972331103f02fa67f053afc5</sys_scope>
+        <sys_scope_delete display_value="">1216fd06aecc4c4185c1c32e0292c1f9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_1dd93ff097a331103f02fa67f053af69</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_1dd93ff097a331103f02fa67f053af69">ddd93ff097a331103f02fa67f053af84</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 15:22:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

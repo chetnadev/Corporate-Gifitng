@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="DELETE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_978579_corpora_0_employee</basic_apply_to>
+        <basic_query_from>x_978579_corpora_0_employee</basic_query_from>
+        <insert_callback/>
+        <name>Show all Employees</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+current.addQuery('manager',parent.sys_id);
+})(current, parent);]]></query_with>
+        <reference_field/>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 11:38:10</sys_created_on>
+        <sys_id>3912f7da97f771103f02fa67f053afe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show all Employees</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_978579_corpora_0">83a26fb4972331103f02fa67f053afc5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">83a26fb4972331103f02fa67f053afc5</sys_scope>
+        <sys_update_name>sys_relationship_3912f7da97f771103f02fa67f053afe8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 11:38:10</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="DELETE" query="documentkey=3912f7da97f771103f02fa67f053afe8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">83a26fb4972331103f02fa67f053afc5</application>
+        <file_path/>
+        <instance_id>f967f6d2dbd6d1900ae3ac44d496190e</instance_id>
+        <instance_name>dev139119</instance_name>
+        <name>sys_relationship_3912f7da97f771103f02fa67f053afe8</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_relationship"&gt;&lt;sys_relationship action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;apply_to/&gt;&lt;basic_apply_to&gt;x_978579_corpora_0_employee&lt;/basic_apply_to&gt;&lt;basic_query_from&gt;x_978579_corpora_0_employee&lt;/basic_query_from&gt;&lt;insert_callback/&gt;&lt;name&gt;Show all Employees&lt;/name&gt;&lt;query_from/&gt;&lt;query_with&gt;&lt;![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+current.addQuery('manager',parent.sys_id);
+})(current, parent);]]&gt;&lt;/query_with&gt;&lt;reference_field/&gt;&lt;related_list/&gt;&lt;simple_reference&gt;false&lt;/simple_reference&gt;&lt;sys_class_name&gt;sys_relationship&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-01-20 11:38:10&lt;/sys_created_on&gt;&lt;sys_id&gt;3912f7da97f771103f02fa67f053afe8&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Show all Employees&lt;/sys_name&gt;&lt;sys_package display_value="Corporate Gifting" source="x_978579_corpora_0"&gt;83a26fb4972331103f02fa67f053afc5&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Corporate Gifting"&gt;83a26fb4972331103f02fa67f053afc5&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_relationship_3912f7da97f771103f02fa67f053afe8&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-01-20 11:38:10&lt;/sys_updated_on&gt;&lt;/sys_relationship&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=3912f7da97f771103f02fa67f053afe8"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1500862120</payload_hash>
+        <record_name>Show all Employees</record_name>
+        <reverted_from/>
+        <source>07a26fb4972331103f02fa67f053afc9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 11:38:10</sys_created_on>
+        <sys_id>d592bb5a97f771103f02fa67f053af39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d26a9faa30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 11:38:10</sys_updated_on>
+        <type>Relationship</type>
+        <update_guid>d992bb5a6ef7711069f8059195a75f38</update_guid>
+        <update_guid_history>d992bb5a6ef7711069f8059195a75f38:-1500862120</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 11:54:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_relationship">sys_relationship</sys_db_object>
+        <sys_id>54df648006c84590b599bac7ceee5640</sys_id>
+        <sys_metadata>3912f7da97f771103f02fa67f053afe8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show all Employees</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_978579_corpora_0">83a26fb4972331103f02fa67f053afc5</sys_package>
+        <sys_parent display_value="Employee">43446f38972331103f02fa67f053af16</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">83a26fb4972331103f02fa67f053afc5</sys_scope>
+        <sys_scope_delete display_value="">1216fd06aecc4c4185c1c32e0292c1f9</sys_scope_delete>
+        <sys_update_name>sys_relationship_3912f7da97f771103f02fa67f053afe8</sys_update_name>
+        <sys_update_version display_value="sys_relationship_3912f7da97f771103f02fa67f053afe8">d592bb5a97f771103f02fa67f053af39</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 11:54:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

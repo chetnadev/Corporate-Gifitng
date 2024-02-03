@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_978579_corpora_0_e_wallet_request_by_managers">request_status=rejected^EQ<item display_value="Rejected" endquery="false" field="request_status" goto="false" newquery="false" operator="=" or="false" value="rejected"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <label>Rejected</label>
+        <name>Rejected</name>
+        <order>4</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-22 10:43:48</sys_created_on>
+        <sys_id>a85975c3977735103f02fa67f053af2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rejected</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_978579_corpora_0">83a26fb4972331103f02fa67f053afc5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">83a26fb4972331103f02fa67f053afc5</sys_scope>
+        <sys_update_name>sys_process_flow_a85975c3977735103f02fa67f053af2e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-22 10:43:48</sys_updated_on>
+        <table>x_978579_corpora_0_e_wallet_request_by_managers</table>
+    </sys_process_flow>
+</record_update>
